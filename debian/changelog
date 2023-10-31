@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-beniget (0.4.1-3) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * d/rules: force the testsuite to run via something else than the deprecated
+    "python3 setup.py tests" command.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Louis-Philippe Véronneau <pollo@debian.org>  Sat, 03 Dec 2022 16:03:17 -0500
+
+python-beniget (0.4.1-2) unstable; urgency=medium
+
+  * Team upload.
+  * Upload to unstable.
+
+ -- Stefano Rivera <stefanor@debian.org>  Mon, 11 Oct 2021 14:45:55 -0700
+
+python-beniget (0.4.1-1) experimental; urgency=medium
+
+  * Initial release (Closes: #993797)
+
+ -- Diego M. Rodriguez <diego@moreda.io>  Mon, 11 Oct 2021 02:07:37 +0200
